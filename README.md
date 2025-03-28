@@ -18,6 +18,11 @@ npm install
 npx cypress open
 ```
 
+'''front
+Select e2e from Opened Windows
+Select a browser like "Chrome'
+Select 'login_spec'
+'''
 ### Ejecutar los tests de Cypress en modo headless
 ```bash
 npx cypress run
