@@ -1,0 +1,23 @@
+{
+  "name": "test-toolbox",
+  "version": "1.0.0",
+  "description": "```bash\r git clone https://github.com/lucas10lg/test-toolbox.git\r cd test-toolbox\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas10lg/test-toolbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas10lg/test-toolbox/issues"
+  },
+  "homepage": "https://github.com/lucas10lg/test-toolbox#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
